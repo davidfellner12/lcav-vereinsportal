@@ -1,0 +1,10 @@
+﻿lcav-app/node_modules/
+lcav-backend/node_modules/
+lcav-app/build/
+lcav-backend/lcav.db
+lcav-backend/.env
+lcav-app/.env
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
