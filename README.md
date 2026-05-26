@@ -8,6 +8,10 @@ lcav-projekt/
 └── lcav-app/       ← React App, Port 3000
 ```
 
+## 🎥 Demo-Video
+
+[![LCAV Vereinsportal Demo](https://cdn.loom.com/sessions/thumbnails/f76f5754dbbc4a7b8135c5c1d64b3803-with-play.gif)](https://www.loom.com/share/f76f5754dbbc4a7b8135c5c1d64b3803)
+
 ---
 
 ## Schnellstart (IntelliJ IDEA)
